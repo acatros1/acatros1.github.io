@@ -41,7 +41,7 @@ Análisis econométrico y ejecutivo sobre el rendimiento de ventas de **45 tiend
 ---
 
 ## 📩 Contacto & Servicios Freelance
-* **Fiverr:** [Ver mis servicios en Fiverr]([https://www.fiverr.com/acatros1](https://es.fiverr.com/sellers/acatros/))
+* **Fiverr:** [Ver mis servicios en Fiverr](https://es.fiverr.com/sellers/acatros)
 * **GitHub:** [github.com/acatros1](https://github.com/acatros1)---
 theme: jekyll-theme-cayman
 ---
