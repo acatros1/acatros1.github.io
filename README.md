@@ -1,9 +1,3 @@
----
-layout: default
-title: Adrián A. Gómez | Portafolio
-theme: jekyll-theme-cayman
----
-
 # Adrián A. Gómez | Python & Data Analytics Portfolio
 
 ¡Hola! Soy **Data Analyst & Python Automation Specialist** con experiencia en soporte técnico, integración de datos y automatización de flujos de trabajo.
