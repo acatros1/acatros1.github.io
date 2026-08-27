@@ -36,6 +36,10 @@ Análisis econométrico y ejecutivo sobre el rendimiento de ventas de **45 tiend
 
 ---
 
+### 🔗 Demo en Vivo (Live Google Sheets)
+Puedes explorar la hoja de cálculo interactiva con las 11 pestañas, fórmulas vivas y dashboard de KPIs aquí:
+👉 [Ver Hoja de Cálculo en Google Sheets](https://docs.google.com/spreadsheets/d/1YHPCBDnFaCVyQSMCZc5rxXaCWKuqSWeXFWmTmuginEY/edit?usp=sharing)
+
 ## 📩 Contacto & Servicios Freelance
 * **Fiverr:** [Ver mis servicios en Fiverr](https://es.fiverr.com/sellers/acatros)
 * **GitHub:** [github.com/acatros1](https://github.com/acatros1)
